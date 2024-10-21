@@ -54,9 +54,4 @@ Contato:
 
 📧 duducaromante@gmail.com
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=afeifz&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afeifz&layout=compact&theme=tokyonight)
-
 ![Snake animation](https://github.com/afeifz/afeifz/blob/output/github-contribution-grid-snake.svg)
